@@ -30,7 +30,7 @@ https://github.com/4GeeksAcademy/html-hello
 4. You also have to make sure to prevent and validate the form in all ways that HTML5 allows you (required inputs, formats, etc.).
 5. Use the `<input type="date">`, don't try to code your own date picker calendar.
 6. If you are *not* using Bootstrap: build a layout strategy by drawing all the `<div>` boxes you can identify, focus particularly on the divs that are laid out horizontally in the same line because those will require using `display: flex`.
-7. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you need almost no CSS of your own.
+7. If you are using Bootstrap: In order to practice all the classes that Bootstrap gives you to style your forms, you practically need no CSS of your own.
 
 ## 📒 Resources
 
@@ -49,7 +49,7 @@ The layout for this exercise requires a lot of `<div>` and boxes, here is a prop
 
 ## What to do if you are stuck?
 
-- After you try on you own for 30 minutes, it is time to stop trying and ask for help.
+- After you try on you own for 30 minutes, it's to stop trying and ask for help.
 - Remember that you can ask for 1 on 1 mentorship if you are stuck.
 - Don't get frustrated, ask for help! 
 
